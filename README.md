@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lve-harmoney
 - 👀 I’m interested in development
-- 🌱 I’m currently learning compliance topics such as FATCA and KYC.
+- 🌱 I’m currently learning compliance topics.
 - 💞️ I’m looking to collaborate on JAVA.
 - 📫 How to reach me lve@myharmoney.eu
 
